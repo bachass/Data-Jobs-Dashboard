@@ -88,7 +88,7 @@ The analysis yielded several actionable insights:
 
 ### Page 1: AI-Driven Key Influencers Summary
 
-![Dashboard Page 1](./images/Page1.png)
+![Dashboard Page 1](./Images/Page1.png)
 
 *   **Purpose:** To provide a high-level overview and identify the most statistically significant drivers of attrition using Power BI's built-in AI capabilities.
 *   **Key Features:**
@@ -98,7 +98,7 @@ The analysis yielded several actionable insights:
 
 ### Page 2: Attrition by Categorical Features
 
-![Dashboard Page 2](./images/Page2.png)
+![Dashboard Page 2](./Images/Page2.png)
 
 *   **Purpose:** The counterpart to the first page, this view allows for the analysis of **categorical employee data**.
 *   **Key Features:**
@@ -108,7 +108,7 @@ The analysis yielded several actionable insights:
 
 ### Page 3: Drill-through Detail Page
 
-![Dashboard Page 3](./images/Page3.png)
+![Dashboard Page 3](./Images/Page3.png)
 
 *   **Purpose:** To offer a granular, filtered view of a specific employee segment selected from the previous page.
 *   **Key Features:**
@@ -117,7 +117,7 @@ The analysis yielded several actionable insights:
 
 ### Page 4: Attrition by Numerical Features
 
-![Dashboard Page 4](./images/Page4.png)
+![Dashboard Page 4](./Images/Page4.png)
 
 *   **Purpose:** To dynamically explore the relationship between various **numerical employee attributes** and attrition.
 *   **Key Features:**
@@ -127,7 +127,7 @@ The analysis yielded several actionable insights:
 
 ### Page 5: Salary and Compensation Analysis
 
-![Dashboard Page 5](./images/Page5.png)
+![Dashboard Page 5](./Images/Page5.png)
 
 *   **Purpose:** To perform a focused analysis on whether compensation is a significant driver of employee attrition.
 *   **Key Features:**
